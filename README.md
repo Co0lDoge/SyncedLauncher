@@ -1,1 +1,1 @@
-Simple app that allow to launch multiple apps with delay
+A simple app for launching multiple applications with customizable delays.
